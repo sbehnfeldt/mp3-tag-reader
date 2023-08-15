@@ -1,5 +1,5 @@
 {
-    "name": "sbehnfeldt/mp3lib",
+    "name": "sbehnfeldt/mp3-tag-reader",
     "description": "Library for reading MP3 files",
     "type": "library",
     "autoload": {
