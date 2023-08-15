@@ -1,0 +1,17 @@
+{
+    "name": "sbehnfeldt/mp3lib",
+    "description": "Library for reading MP3 files",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Sbehnfeldt\\Mp3lib\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Stephen",
+            "email": "stephen@behnfeldt.pro"
+        }
+    ],
+    "require": {}
+}
