@@ -13,5 +13,9 @@
             "email": "stephen@behnfeldt.pro"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=8",
+        "ext-mbstring": "*",
+        "ext-iconv": "*"
+    }
 }
